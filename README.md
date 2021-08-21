@@ -26,7 +26,7 @@ Copy-paste/download the specific script and run with `bash SCRIPTNAME` or  `pyth
 
 2. Biology
 
-   2.1. Download PDB file from RCSB
+   2.1. [Download PDB file from RCSB](https://github.com/Ruibin-Liu/chembio-info/blob/main/Bio/download_pdb_from_rcsb.py)
 
    2.2. Show FASTA sequence(s) given a list of uniprot number(s)
 
