@@ -24,7 +24,7 @@ Copy-paste/download the specific script and run with `bash SCRIPTNAME` or  `pyth
 
 1. Chemistry
 
-2. Biology
+2. [Biology](https://github.com/Ruibin-Liu/chembio-info/tree/main/Bio)
 
    2.1. [Download PDB file from RCSB](https://github.com/Ruibin-Liu/chembio-info/blob/main/Bio/download_pdb_from_rcsb.py)
 
