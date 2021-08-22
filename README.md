@@ -26,8 +26,8 @@ Copy-paste/download the specific script and run with `bash SCRIPTNAME` or  `pyth
 
 2. [Biology](https://github.com/Ruibin-Liu/chembio-info/tree/main/Bio)
 
-   2.1. [Download PDB file(s) from RCSB given a list of PDB ids](https://github.com/Ruibin-Liu/chembio-info/blob/main/Bio/download_pdb_from_rcsb.py)
+   2.1. [Download PDB file(s) from RCSB given a list of PDB ids](https://github.com/Ruibin-Liu/chembio-info/blob/main/Bio/download_pdbs_from_rcsb.py)
 
    2.2. Show FASTA sequence(s) given a list of uniprot number(s)
 
-   2.3. Show available PDB ID(s) given a list of uniprot number(s)
+   2.3. [Show available PDB ID(s) given a list of uniprot number(s)](https://github.com/Ruibin-Liu/chembio-info/blob/main/Bio/show_pdbs_of_uniprotIDs.py)
